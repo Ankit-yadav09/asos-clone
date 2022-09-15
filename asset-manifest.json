@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//asos-clone/static/css/main.0ec3106a.css",
-    "main.js": "//asos-clone/static/js/main.d186fb0a.js",
-    "static/js/787.36cda782.chunk.js": "//asos-clone/static/js/787.36cda782.chunk.js",
-    "index.html": "//asos-clone/index.html",
-    "main.0ec3106a.css.map": "//asos-clone/static/css/main.0ec3106a.css.map",
-    "main.d186fb0a.js.map": "//asos-clone/static/js/main.d186fb0a.js.map",
-    "787.36cda782.chunk.js.map": "//asos-clone/static/js/787.36cda782.chunk.js.map"
+    "main.css": "/asos-clone/static/css/main.0ec3106a.css",
+    "main.js": "/asos-clone/static/js/main.f735486a.js",
+    "static/js/787.36cda782.chunk.js": "/asos-clone/static/js/787.36cda782.chunk.js",
+    "index.html": "/asos-clone/index.html",
+    "main.0ec3106a.css.map": "/asos-clone/static/css/main.0ec3106a.css.map",
+    "main.f735486a.js.map": "/asos-clone/static/js/main.f735486a.js.map",
+    "787.36cda782.chunk.js.map": "/asos-clone/static/js/787.36cda782.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ec3106a.css",
-    "static/js/main.d186fb0a.js"
+    "static/js/main.f735486a.js"
   ]
 }
