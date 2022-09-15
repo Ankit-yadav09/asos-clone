@@ -22,7 +22,7 @@ const Allroutes = () => {
               }/>
             <Route path='/signin' element={<SignIn/>}/>
             <Route path='/login' element={<Login/>}/>
-            <Route path='/asos-clone/wishlist' element={<Wishlist/>}/>
+            <Route path='/wishlist' element={<Wishlist/>}/>
         </Routes>
    
   )
