@@ -1,0 +1,106 @@
+.footerMain{
+    width: 100%;
+    margin: auto;
+    /* border: 1px solid grey; */
+}
+
+.upperFooter{
+    width: 45%;
+    height: 40px;
+    margin: auto;
+    /* border: 1px solid grey; */
+    display: flex;
+}
+.footerSocial{
+    /* border: 1px solid grey; */
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footerSocial img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.footerSocial img:hover{
+    transform: scale(1.04);
+}
+.footerPayment{
+    /* border: 1px solid green; */
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.footerPayment img{
+    /* border-radius: 50%; */
+    width: 35px;
+    height: 25px;
+}
+
+/* Middle Footer Start*/
+.middleFooter{
+    width: 100%;
+    /* border: 1px solid grey; */
+    background-color: 
+    #eeeeee;
+}
+.midFtCont{
+    width: 85%;
+    height: 230px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid green; */
+}
+.midFtEachBox{
+    margin-top: 20px;
+    /* border: 1px solid red; */
+    width: 100%;
+    text-align: left;
+    line-height: 30px;
+}
+.midFtEachBox h2{
+    font-weight: bold;
+    font-size: 14px;
+    color: #687576;
+}
+.midFtEachBox p{
+    font-size: 14px;
+    color: #687576;
+}
+.midFtCountry{
+    display: flex; 
+}
+.midFtCountry h2:hover, p:hover {
+   /* font-weight: bold; */
+   color: rgb(64, 64, 255);
+   cursor: pointer;
+}
+.midFtCountry img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 10px;
+}
+/* Middle Footer End*/
+.bottomFooter{
+    height: 50px;
+    /* border: 1px solid red; */
+    background-color: 
+    #dddddd;
+}
+.bottomFtCont{
+    width: 85%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 1px solid grey; */
+}
+.bottomFtCont p{
+    font-size: 12px;
+}
+
+/* bottom footer end */

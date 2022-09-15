@@ -1,0 +1,48 @@
+.menuBarDiv{
+    background-color: #525050;
+}
+.menuButtons{
+    display: flex;
+    /* border: 1px solid green; */
+    width: 76%;
+    /* margin: auto; */
+    justify-content: center;
+    /* gap: 20px; */
+    height: 45px;
+    align-items: center;
+    background-color: #525050;
+    margin-left: 110px;
+}
+.menuEachbtn{
+    /* border: 1px solid green; */
+    height: 100%;
+    font-size: 14px;
+    color: white;
+    font-weight: lighter;
+    /* width: auto; */
+    padding: 10px 15px 10px 15px;
+}
+.menuEachbtn:hover{
+cursor: pointer;
+background-color: white;
+color: black;
+}
+.menuSalebtn{
+    height: 100%;
+    width: 75px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    background-color: 
+    #d01345;
+    /* margin-top: 10px; */
+    text-align: center;
+    /* width: auto; */
+    padding: 10px;
+}
+.menuSalebtn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    }

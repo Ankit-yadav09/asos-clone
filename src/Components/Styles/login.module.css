@@ -1,0 +1,22 @@
+.loginDiv{
+    background-color: #dddddd;
+}
+.loginForm{
+    margin: auto;
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 400px;
+   
+}
+.loginForm input{
+    width: 100%;
+    border: 1px solid grey;
+     margin-top: 20px;
+
+}
+.loginForm button{
+    width: 30%;
+    /* border: 1px solid grey; */
+    margin-top: 20px;
+    background-color: orange;
+}

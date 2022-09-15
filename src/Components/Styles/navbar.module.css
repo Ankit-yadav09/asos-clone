@@ -1,0 +1,107 @@
+*{
+  font-family: futura-pt,sans-serif;
+}
+/* above navbar start */
+.aboveNavbar{
+  display: flex;
+  justify-content: flex-end;
+  width: 85%;
+  margin: auto;
+  /* gap: 20px; */ 
+}
+.aboveNavbar div{
+  border: 0.5px solid rgb(184, 184, 184);
+  width: auto;
+  padding: 5px 15px;
+  border-top: 0;
+  border-bottom: 0;
+  color: #525050;
+  font-size: small;
+}
+.aboveNavbar div:hover{
+  color: rgb(7, 81, 219);
+  cursor: pointer;
+}
+.aboveNavbar img{
+  width: 20px;
+  border-radius: 50%;
+}
+/* above navbar end */
+/* Navbar Start */
+.navOuterDiv{
+  gap: 10px;
+  background-color: 
+  #292929;
+}
+.nav{
+    display: flex;
+   height: 60px;
+   padding: 10px;
+   width: 88%;
+ margin:auto;
+ /* margin-top: 10px; */
+  background-color: 
+  #292929;
+  gap: 10px;
+  /* border: 1px solid rgb(47, 71, 255); */
+}
+.logoDiv{
+  background-color: #292929;
+}
+.asosLogo{
+  background-color: #292929;
+  width: 80px;
+  height: 59px;
+  margin-top: -10px;
+  color: black;
+  /* opacity: 0.8; */
+}  
+.searchIp{
+    width: 65%;
+    border-radius: 30px;
+}
+.navIcons{
+  width: 150px;
+   /* border: 1px solid rgb(246, 243, 243); */
+   /* background-color: #d01345; */
+   border-radius: 10px;
+   height: 40px;
+   /* gap: 10px; */
+   display: flex;
+   justify-content: space-evenly;
+   margin: auto;
+}
+.navButtons{
+  background-color: #292929;
+  font-size: 15px;
+  border: none;
+  color: white;
+  font-weight: bolder;
+  margin-top: -10px;
+  height: 59px;
+  width: 100px;
+  
+}
+.navButtons:hover{
+  background-color: #525050;
+}
+.userInfo{
+  display: flex;
+  gap: 5px;
+  background-color: #ebe4e4;
+  width: 100%;
+  height: 30px;
+}
+.userInfo a{
+  text-decoration: underline;
+}
+.usermenuList a:hover{
+  color: rgb(7, 81, 219);
+}
+.usermenuList {
+  width: 350px;
+  line-height: 30px;
+
+}
+
+/* Navbar End */

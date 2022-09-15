@@ -1,0 +1,33 @@
+
+.brandsOuter{
+    /* border: 1px solid green; */
+    height: 300px;
+    width: 100%;
+     
+}
+.brandsOuter h1{
+    margin-top: 30px;
+    margin-bottom: 35px;
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+}
+.brandsImages{
+    display: flex;
+   margin: auto;
+   /* border: 1px solid purple; */
+   width: 80%;
+   gap: 10px;
+   justify-content: space-between; 
+   cursor: pointer;
+}
+.brandsEachImage{
+    width: 16%;
+    height: 200px;
+    cursor: pointer;
+    transition-duration: 0.1s;
+    /* border: 1px solid green; */
+}
+.brandsEachImage:hover{
+    transform: scale(1.02);
+}
