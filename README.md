@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# ASOS-Clone
+This is a clone of ASOS.com website. 
+ASOS is a British online fashion and cosmetic retailer. We can buy the latest fashion products for men and women both
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## HomePage 
+![Screenshot (1248)](https://user-images.githubusercontent.com/101567851/191052959-912a682e-2d76-4354-88ef-578ac181a15d.png)
 
-## Available Scripts
+## Tech Stack
+* React
+* Context API
+* React Routing
+* Chakra UI
 
-In the project directory, you can run:
+## Website Flow
+* Homepage
+* Login
+* Select Category
+* View Products
 
-### `npm start`
+## Features
+* Can Login
+* View products
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Login
+![Screenshot (1253)](https://user-images.githubusercontent.com/101567851/191055377-723efc61-c03d-4bd7-a0a1-81b3c746e4f1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Catergories
+![categoryScreenshot (1248)](https://user-images.githubusercontent.com/101567851/191055727-7558a44c-9616-4b4f-88c9-d11b180b9c19.png)
 
-### `npm test`
+## Men's Products
+![Screenshot (1251)](https://user-images.githubusercontent.com/101567851/191055954-e4e05ca6-4dbc-49c6-848c-e07e817c55f2.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Women's Products
+![Screenshot (1249)](https://user-images.githubusercontent.com/101567851/191056066-5b30b237-3b57-4d6c-8752-98b695ea18af.png)
 
-### `npm run build`
+## Learning Outcome
+* learnt about React Routing
+* How to use Chakra UI
+* Learnt about login through API
+* Imports and Exports
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributors
+ [Ankit](https://github.com/Ankit-yadav09)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Live : https://ankit-yadav09.github.io/asos-clone
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
